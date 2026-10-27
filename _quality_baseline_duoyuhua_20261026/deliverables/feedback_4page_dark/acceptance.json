@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "name": "feedback_4page_dark",
+  "pages": 4,
+  "text_overflows": [],
+  "font_embedded_markers": 6,
+  "effect_counts": [
+    11,
+    23,
+    23,
+    23
+  ],
+  "expected_effect_counts": [
+    11,
+    23,
+    23,
+    23
+  ],
+  "round_corner_count": 0,
+  "gradient_count": 0,
+  "accent_colors_per_page": {
+    "1": [
+      "E16A4F"
+    ],
+    "2": [
+      "E16A4F"
+    ],
+    "3": [
+      "E16A4F"
+    ],
+    "4": [
+      "E16A4F"
+    ]
+  },
+  "black_images": [],
+  "pptx": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\缩短客户反馈闭环_4页_深色重建版.pptx",
+  "contact_sheet": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\contact_sheet.png",
+  "pngs": [
+    "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s01.png",
+    "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s02.png",
+    "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s03.png",
+    "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s04.png"
+  ],
+  "sha256": "E922491D2CD5D5BC2FD6F7E4A379B22BE297D30B521BD0CA466443686612DEB9",
+  "powerpoint_animation_repaired": true,
+  "effect_trigger_types": [
+    2
+  ],
+  "effect_duration_seconds": [
+    0.4
+  ]
+}

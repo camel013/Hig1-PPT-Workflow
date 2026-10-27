@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "fonts": {
+    "title": "楷体",
+    "body": "华文中宋",
+    "svg_families": {
+      "title": "KaiTi, 楷体, STKaiti, serif",
+      "body": "STZhongsong, 华文中宋, SimSun, serif"
+    },
+    "pixels_to_points": 0.75
+  },
+  "grid": {
+    "canvas_px": [1280, 720],
+    "margin_px": 80,
+    "header_line_y": 96,
+    "footer_line_y": 664
+  },
+  "shapes": {
+    "allowed_geometry": ["rect", "oval"],
+    "corner_radius_px": 0,
+    "gradient_enabled": false,
+    "shadow_enabled": false,
+    "stroke_points_factor": 0.75
+  },
+  "animation": {
+    "effect": "fade",
+    "direction": "in",
+    "duration_ms": 400,
+    "stagger_ms": 60,
+    "max_duration_ms": 600
+  },
+  "profiles": {
+    "swiss_default": {
+      "palette": {
+        "paper": "F4F1E9",
+        "ink": "232323",
+        "gray": "6E6A64",
+        "hair": "D3CEC3",
+        "terracotta": "8E5750",
+        "blue": "5A707E",
+        "panel": "ECE6D8",
+        "panel_blue": "DCE3E5",
+        "inverse": "F7F3EA",
+        "shade": "D9D2C4"
+      },
+      "type_by_role": {
+        "hero": 96,
+        "title": 54,
+        "lead": 54,
+        "heading": 34,
+        "body": 24,
+        "small": 18,
+        "label": 17,
+        "micro": 14,
+        "metric": 72,
+        "number": 54,
+        "outcome": 34,
+        "date": 17,
+        "action_day": 40.5
+      },
+      "text_color_map": {},
+      "fill_color_map": {},
+      "stroke_color_map": {},
+      "omit_shape_roles": [],
+      "draw_background_shape": false
+    },
+    "dark_editorial": {
+      "palette": {
+        "background": "151515",
+        "primary": "F4EFE5",
+        "secondary": "ADA69B",
+        "rule": "3A3733",
+        "accent": "E16A4F",
+        "neutral_panel": "232526",
+        "neutral_secondary": "4A5358"
+      },
+      "type_by_role": {
+        "hero": 112,
+        "title": 62,
+        "lead": 56,
+        "heading": 36,
+        "body": 26,
+        "small": 20,
+        "label": 17,
+        "micro": 14,
+        "metric": 72,
+        "number": 62,
+        "outcome": 42,
+        "date": 17,
+        "action_day": 42
+      },
+      "text_color_map": {
+        "ink": "primary",
+        "paper": "primary",
+        "inverse": "primary",
+        "gray": "secondary",
+        "terracotta": "accent",
+        "blue": "accent"
+      },
+      "fill_color_map": {
+        "ink": "primary",
+        "paper": "background",
+        "gray": "secondary",
+        "hair": "rule",
+        "terracotta": "accent",
+        "blue": "neutral_secondary",
+        "panel": "neutral_panel",
+        "panel_blue": "neutral_panel",
+        "inverse": "primary",
+        "shade": "neutral_panel"
+      },
+      "stroke_color_map": {
+        "ink": "primary",
+        "paper": "background",
+        "gray": "secondary",
+        "hair": "rule",
+        "terracotta": "accent",
+        "blue": "neutral_secondary",
+        "panel": "neutral_panel",
+        "panel_blue": "neutral_panel"
+      },
+      "omit_shape_roles": ["chrome_rule", "column_rule"],
+      "draw_background_shape": true
+    }
+  },
+  "active_profile": "swiss_default"
+}
