@@ -6,31 +6,41 @@ node_modules/
 __pycache__/
 *.py[cod]
 
-# Local projects, source material, working data and generated outputs
-projects/
+# Local working data, locked delivery baselines and duplicate packages
 _src/
 _work/
 backups/
 dist/
 _quality_baseline_*/
-glass_layer_sample_*/
 qub_*/
 _workspace_audit_*.json
+glass_layer_sample_*/contact_sheet.png
+glass_layer_sample_*/preview/
 
-# Binary deliverables and previews
-*.pptx
-*.pdf
+# Generated project outputs and previews
+projects/**/deliverables/
+projects/**/dist/
+projects/**/_artifact_build/
+projects/**/_native_preview/
+projects/**/render_check/
+projects/**/pp_check/
+projects/**/preview/
+projects/**/previews/
+projects/**/preview_outlined/
+projects/**/preview_grouped/
+projects/**/reference_preview/
+projects/**/images_opt/
+projects/**/posters/
+projects/**/_test_png/
+projects/**/.codex-finalizer-native/
+projects/**/_contact*.png
+projects/**/_final_contact*.png
+projects/**/_revised_contact*.png
+projects/**/_crop*.png
+
+# Archives and temporary artifacts
 *.zip
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.gif
-*.mp4
-*.mov
 *.log
-
-# Temporary files
 *.tmp
 *.bak
 ~$*

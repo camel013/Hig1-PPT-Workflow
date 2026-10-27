@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<text x="74" y="92" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">核心判断</text>
+<text x="72" y="158" text-anchor="start" font-family="KaiTi" font-size="52" font-weight="normal" fill="#171817">蓝调的历史底色</text>
+<text x="74" y="232" text-anchor="start" font-family="STZhongsong" font-size="29" font-weight="normal" fill="#171817"><tspan x="74" dy="0">“整个美国现代社会（政治、经济、文化、艺术……）</tspan><tspan x="74" dy="45.0">的形成与奴隶制密不可分。”</tspan></text>
+<line x1="88" y1="405" x2="1192" y2="585" stroke="#C9D1D2" stroke-width="2"/>
+<line x1="88" y1="585" x2="1192" y2="405" stroke="#C9D1D2" stroke-width="2"/>
+<circle cx="640" cy="495" r="13" fill="#963B31"/>
+<text x="640" y="536" text-anchor="middle" font-family="STZhongsong" font-size="25" font-weight="normal" fill="#963B31">相互缠结</text>
+<text x="90" y="390" text-anchor="start" font-family="KaiTi" font-size="29" font-weight="normal" fill="#20374D">种植园经济</text>
+<text x="90" y="510" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#4F4E49"><tspan x="90" dy="0">土地</tspan><tspan x="90" dy="30.0">劳动力</tspan><tspan x="90" dy="30.0">作物利润</tspan></text>
+<text x="1188" y="390" text-anchor="end" font-family="KaiTi" font-size="29" font-weight="normal" fill="#20374D">工业资本主义</text>
+<text x="1188" y="510" text-anchor="end" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#4F4E49"><tspan x="1188" dy="0">工厂</tspan><tspan x="1188" dy="30.0">铁路</tspan><tspan x="1188" dy="30.0">市场扩张</tspan></text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.4</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">02 / 12</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">工业化背景</text>
+<text x="72" y="150" text-anchor="start" font-family="KaiTi" font-size="50" font-weight="normal" fill="#171817">工业资本与奴隶制共同增长</text>
+<text x="74" y="194" text-anchor="start" font-family="STZhongsong" font-size="23" font-weight="normal" fill="#4F4E49">北方制造业扩张，并未与南方奴隶制共同体的增长彼此隔绝。</text>
+<text x="74" y="266" text-anchor="start" font-family="KaiTi" font-size="24" font-weight="normal" fill="#20374D">制造业就业</text>
+<text x="74" y="330" text-anchor="start" font-family="STZhongsong" font-size="56" font-weight="normal" fill="#67645D">约 50 万</text>
+<text x="74" y="365" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1840</text>
+<line x1="74" y1="398" x2="334" y2="398" stroke="#C9D1D2" stroke-width="2"/>
+<text x="74" y="466" text-anchor="start" font-family="STZhongsong" font-size="66" font-weight="normal" fill="#963B31">120 万</text>
+<text x="74" y="506" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1850</text>
+<line x1="438" y1="258" x2="438" y2="522" stroke="#BEB8AD" stroke-width="1"/>
+<text x="470" y="266" text-anchor="start" font-family="KaiTi" font-size="24" font-weight="normal" fill="#20374D">制造业贡献占比</text>
+<text x="470" y="330" text-anchor="start" font-family="STZhongsong" font-size="56" font-weight="normal" fill="#67645D">17%</text>
+<text x="470" y="365" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1839</text>
+<line x1="470" y1="398" x2="730" y2="398" stroke="#C9D1D2" stroke-width="2"/>
+<text x="470" y="466" text-anchor="start" font-family="STZhongsong" font-size="66" font-weight="normal" fill="#963B31">29%</text>
+<text x="470" y="506" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1849</text>
+<line x1="834" y1="258" x2="834" y2="522" stroke="#BEB8AD" stroke-width="1"/>
+<text x="866" y="266" text-anchor="start" font-family="KaiTi" font-size="24" font-weight="normal" fill="#20374D">农业部门占比</text>
+<text x="866" y="330" text-anchor="start" font-family="STZhongsong" font-size="56" font-weight="normal" fill="#67645D">72%</text>
+<text x="866" y="365" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1839</text>
+<line x1="866" y1="398" x2="1126" y2="398" stroke="#C9D1D2" stroke-width="2"/>
+<text x="866" y="466" text-anchor="start" font-family="STZhongsong" font-size="66" font-weight="normal" fill="#963B31">60%</text>
+<text x="866" y="506" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">1849</text>
+<rect x="74" y="552" width="9" height="77" fill="#20374D"/>
+<text x="108" y="583" text-anchor="start" font-family="STZhongsong" font-size="25" font-weight="normal" fill="#171817"><tspan x="108" dy="0">“工业资本主义的发展和奴隶制棉花种植园的发展</tspan><tspan x="108" dy="38.8">相互缠结。”</tspan></text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">数据见原文脚注 33</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">06 / 12</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#20374D"/>
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" letter-spacing="2" fill="#C7D0D3">1861—1865 · 内战</text>
+<text x="72" y="166" text-anchor="start" font-family="KaiTi" font-size="49" font-weight="normal" fill="#FBFAF7">拯救联邦，还是摧毁奴隶制？</text>
+<rect x="74" y="224" width="9" height="281" fill="#963B31"/>
+<text x="116" y="272" text-anchor="start" font-family="STZhongsong" font-size="33" font-weight="normal" fill="#FBFAF7"><tspan x="116" dy="0">“我在这场战争中的最高目标是拯救联邦。</tspan><tspan x="116" dy="50.2">如果我能拯救联邦而不解放任何一个奴隶，</tspan><tspan x="116" dy="50.2">我愿意这样做；如果为了拯救联邦</tspan><tspan x="116" dy="50.2">需要解放一部分奴隶而保留另一部分，</tspan><tspan x="116" dy="50.2">我也愿意这样做。”</tspan></text>
+<text x="116" y="539" text-anchor="start" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#C7D0D3">亚伯拉罕·林肯，1862 年书信节选</text>
+<text x="944" y="287" text-anchor="middle" font-family="STZhongsong" font-size="59" font-weight="normal" fill="#8DA0AB">1861</text>
+<text x="944" y="326" text-anchor="middle" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#D7DEE0">南部同盟成立，战争开始</text>
+<text x="1084" y="476" text-anchor="middle" font-family="STZhongsong" font-size="86" font-weight="normal" fill="#FBFAF7">1863</text>
+<text x="1084" y="536" text-anchor="middle" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#FBFAF7">《解放黑人奴隶宣言》</text>
+<line x1="944" y1="374" x2="1013" y2="374" stroke="#963B31" stroke-width="2"/>
+<polygon points="1009,367 1027,374 1009,381" fill="#963B31"/>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#5E7687" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#B9C4C9">原文 p.6–7</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">08 / 12</text>
+</svg>

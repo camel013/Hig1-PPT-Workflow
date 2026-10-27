@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">政治危机</text>
+<text x="72" y="150" text-anchor="start" font-family="KaiTi" font-size="50" font-weight="normal" fill="#171817">西进把经济冲突推向国家政治</text>
+<path d="M 100 447 L 335 414 L 575 367 L 820 317 L 1082 257" fill="none" stroke="#963B31" stroke-width="5"/>
+<circle cx="100" cy="447" r="8" fill="#963B31"/>
+<text x="100" y="494" text-anchor="start" font-family="STZhongsong" font-size="31" font-weight="normal" fill="#20374D">1820</text>
+<text x="100" y="524" text-anchor="start" font-family="KaiTi" font-size="21" font-weight="normal" fill="#171817">密苏里妥协</text>
+<text x="100" y="550" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">36°30′ 划出自由州与蓄奴州界线</text>
+<circle cx="335" cy="414" r="8" fill="#963B31"/>
+<text x="335" y="461" text-anchor="start" font-family="STZhongsong" font-size="31" font-weight="normal" fill="#20374D">1850</text>
+<text x="335" y="491" text-anchor="start" font-family="KaiTi" font-size="21" font-weight="normal" fill="#171817">逃奴追缉法</text>
+<text x="335" y="517" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">联邦政府参与追索逃亡奴隶</text>
+<circle cx="575" cy="367" r="8" fill="#963B31"/>
+<text x="575" y="414" text-anchor="start" font-family="STZhongsong" font-size="31" font-weight="normal" fill="#20374D">1854</text>
+<text x="575" y="444" text-anchor="start" font-family="KaiTi" font-size="21" font-weight="normal" fill="#171817">堪萨斯－内布拉斯加法案</text>
+<text x="575" y="470" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">地域限制被取消，共和党成立</text>
+<circle cx="820" cy="317" r="8" fill="#963B31"/>
+<text x="820" y="364" text-anchor="start" font-family="STZhongsong" font-size="31" font-weight="normal" fill="#20374D">1854–59</text>
+<text x="820" y="394" text-anchor="start" font-family="KaiTi" font-size="21" font-weight="normal" fill="#171817">流血的堪萨斯</text>
+<text x="820" y="420" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">两个政府与武装垦殖者对抗</text>
+<circle cx="1082" cy="257" r="8" fill="#963B31"/>
+<text x="1082" y="304" text-anchor="start" font-family="STZhongsong" font-size="31" font-weight="normal" fill="#20374D">1859</text>
+<text x="1082" y="334" text-anchor="start" font-family="KaiTi" font-size="21" font-weight="normal" fill="#171817">约翰·布朗起义</text>
+<text x="1082" y="360" text-anchor="start" font-family="STZhongsong" font-size="17" font-weight="normal" fill="#4F4E49">战争倒计时开始</text>
+<text x="74" y="602" text-anchor="start" font-family="KaiTi" font-size="27" font-weight="normal" fill="#963B31">“联邦事实上已成了统治南部的 30 万奴隶主的奴隶。”</text>
+<text x="74" y="632" text-anchor="start" font-family="STZhongsong" font-size="16" font-weight="normal" fill="#4F4E49">马克思语，转引自原文 p.6</text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.5–6</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">07 / 12</text>
+</svg>

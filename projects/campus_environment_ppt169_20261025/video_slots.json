@@ -1,0 +1,29 @@
+[
+  {
+    "number": 1,
+    "slide": 2,
+    "video": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\images\\video3.mp4",
+    "x": 9.92,
+    "y": 2.63,
+    "w": 2.34,
+    "h": 4.16
+  },
+  {
+    "number": 2,
+    "slide": 3,
+    "video": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\images\\video2.mp4",
+    "x": 8.48,
+    "y": 3.56,
+    "w": 4.22,
+    "h": 2.37
+  },
+  {
+    "number": 3,
+    "slide": 4,
+    "video": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\images\\video1.mp4",
+    "x": 0.62,
+    "y": 2.29,
+    "w": 6.2,
+    "h": 3.49
+  }
+]

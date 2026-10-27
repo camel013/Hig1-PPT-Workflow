@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<path d="M 72 651 C 300 578, 778 554, 1225 337" fill="none" stroke="#DAE0E1" stroke-width="17"/>
+<path d="M 104 667 C 326 615, 760 598, 1210 402" fill="none" stroke="#963B31" stroke-width="3"/>
+<text x="74" y="90" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">尾声</text>
+<text x="72" y="175" text-anchor="start" font-family="KaiTi" font-size="72" font-weight="normal" fill="#171817">谁在歌唱</text>
+<text x="74" y="287" text-anchor="start" font-family="KaiTi" font-size="55" font-weight="normal" fill="#171817"><tspan x="74" dy="0">人是宇宙和声中</tspan><tspan x="74" dy="81.4">一个响亮有力的“是”字。</tspan></text>
+<text x="76" y="410" text-anchor="start" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#4F4E49">易卜拉欣·弗朗茨·法农</text>
+<text x="74" y="491" text-anchor="start" font-family="STZhongsong" font-size="25" font-weight="normal" fill="#20374D"><tspan x="74" dy="0">蓝调承接种植园里的圣歌与民歌，</tspan><tspan x="74" dy="38.8">把共同的哀愁、劳动与愤怒留在声音里。</tspan></text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.1、p.9 · 12 页精选</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">12 / 12</text>
+</svg>

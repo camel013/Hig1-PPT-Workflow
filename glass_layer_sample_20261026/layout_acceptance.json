@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "pptx": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\玻璃质感色块_隔离样页.pptx",
+  "layout_issues": [],
+  "text_items": 6,
+  "glass": {
+    "blur_radius_px": 18,
+    "background_antialias_scale": 4,
+    "tint": "5A707E",
+    "opacity_pct": 30,
+    "top_highlight_pct": 32,
+    "left_highlight_pct": 24
+  }
+}

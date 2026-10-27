@@ -1,18 +1,38 @@
 # Hig1 PPT Workflow
 
-本仓库保存 PPT 任务的执行纪律、验收脚本和模板锁定信息。完整项目素材与交付物保留在本地工作区，不纳入 Git。
+本仓库保存 PPT 任务的执行纪律、生成脚本、设计规范、原始素材和代表性成果。大型二进制文件使用 Git LFS，生成预览与最终交付包保留在本地。
 
 ## 仓库内容
 
 - `AGENTS.md`：版式设计、读取边界、执行预算与验收停止条件。
 - `_ppt_workflow/`：工作区预处理与检查工具。
+- `projects/`：各项目的设计规范、生成脚本、SVG、原始素材和代表性 PPTX。
+- `glass_layer_sample_20261026/`：玻璃质感设计体系样页。
 - `TEMPLATE_LOCK.json`、`TEMPLATE_LOCK.sha256`：固定模板与已完成项目的锁定索引。
 - `template_lock.ps1`：模板锁定校验脚本。
 
 ## 不入库内容
 
-- `projects/`、`_src/`、`_work/`、`backups/` 和临时质量基线。
-- PPTX、PDF、压缩包、页面预览、图片、视频及运行缓存。
+- `projects/*/deliverables/`、`projects/*/dist/` 和各类检查预览。
+- `_src/`、`_work/`、`backups/`、重复统一版和临时质量基线。
+- 最终压缩包、运行日志、缓存和重复构建物。
+
+## 获取仓库
+
+只需要读取规范和脚本时，使用文本浅克隆，不下载 LFS 资产：
+
+```powershell
+$env:GIT_LFS_SKIP_SMUDGE = "1"
+git clone https://github.com/camel013/Hig1-PPT-Workflow.git
+```
+
+需要某个项目的素材时，只拉取对应目录：
+
+```powershell
+git lfs pull --include="projects/campus_environment_ppt169_20261025/images/**"
+```
+
+需要完整复现时再执行 `git lfs pull`。
 
 ## 使用原则
 

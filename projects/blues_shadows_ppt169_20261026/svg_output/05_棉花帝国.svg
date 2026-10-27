@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">棉花帝国</text>
+<text x="72" y="150" text-anchor="start" font-family="KaiTi" font-size="50" font-weight="normal" fill="#171817">棉花把南北锁在一起</text>
+<text x="1006" y="166" text-anchor="end" font-family="STZhongsong" font-size="78" font-weight="normal" fill="#963B31">60%+</text>
+<text x="1006" y="230" text-anchor="end" font-family="STZhongsong" font-size="16" font-weight="normal" fill="#4F4E49">1807 年，英国主要港口棉花来源中，美国占六成以上</text>
+<ellipse cx="620" cy="443" rx="447" ry="205" fill="none" stroke="#DAE0E1" stroke-width="3"/>
+<path d="M 712 245 C 930 247, 1072 321, 1060 425" fill="none" stroke="#20374D" stroke-width="4"/>
+<path d="M 173 443 C 168 544, 292 632, 500 643" fill="none" stroke="#963B31" stroke-width="4"/>
+<polygon points="1060,437 1047,418 1075,422" fill="#20374D"/>
+<polygon points="490,631 507,620 506,650" fill="#963B31"/>
+<text x="630" y="421" text-anchor="middle" font-family="KaiTi" font-size="29" font-weight="normal" fill="#171817">资本回路</text>
+<text x="630" y="470" text-anchor="middle" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#4F4E49">强制劳动与全球市场</text>
+<text x="223" y="275" text-anchor="middle" font-family="KaiTi" font-size="27" font-weight="normal" fill="#171817">黑人奴隶劳动</text>
+<text x="1002" y="275" text-anchor="middle" font-family="KaiTi" font-size="27" font-weight="normal" fill="#171817">原棉出口</text>
+<text x="1030" y="589" text-anchor="middle" font-family="KaiTi" font-size="27" font-weight="normal" fill="#171817">英国机器与北方工业</text>
+<text x="245" y="604" text-anchor="middle" font-family="KaiTi" font-size="27" font-weight="normal" fill="#171817">利润回流</text>
+<text x="245" y="633" text-anchor="middle" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#4F4E49">再次购买土地与奴隶</text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.4–5</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">05 / 12</text>
+</svg>

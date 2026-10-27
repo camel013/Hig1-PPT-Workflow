@@ -1,0 +1,23 @@
+{
+  "question": "圆弧像素感是否普遍存在",
+  "conclusion": "不是普遍问题；玻璃样页背景由 Pillow 在目标尺寸直接绘制，缺少超采样抗锯齿。",
+  "probe": {
+    "direct_pillow_1x": {
+      "edge_band_colors": 2,
+      "intermediate_colors": 0
+    },
+    "pillow_4x_supersampling": {
+      "edge_band_colors": 454,
+      "intermediate_colors": 430
+    },
+    "powerpoint_native_oval": {
+      "edge_band_colors": 763,
+      "intermediate_colors": 760
+    },
+    "corrected_glass_sample_background": {
+      "edge_band_colors": 495
+    }
+  },
+  "fix": "程序化栅格背景按 4 倍尺寸绘制，再使用 Lanczos 缩回 1280×720；局部模糊在此之后执行。",
+  "result": "修正后的样页圆弧已恢复连续过渡，排版检查仍为 0 问题。"
+}

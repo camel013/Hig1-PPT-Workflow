@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" opacity="1.0"/>
+<rect x="0" y="0" width="10" height="720" fill="#E2231A" opacity="1.0"/>
+<text x="80" y="78" font-family="等线" font-size="13" font-weight="700" fill="#767674" text-anchor="start" letter-spacing="2" opacity="1.0">文献 / 01</text>
+<text x="1200" y="78" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="end" letter-spacing="2" opacity="1.0">1935</text>
+<line x1="80" y1="96" x2="1200" y2="96" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="300" font-family="华文楷体" font-size="132" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">多余的话</text>
+<line x1="80" y1="348" x2="1200" y2="348" stroke="#111111" stroke-width="2"/>
+<text x="80" y="420" font-family="等线" font-size="40" font-weight="700" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">瞿秋白</text>
+<text x="80" y="466" font-family="华文中宋" font-size="22" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="0" opacity="1.0">一九三五年五月 · 汀州狱中</text>
+<text x="80" y="604" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="3" opacity="1.0">SUPERFLUOUS WORDS</text>
+<text x="80" y="630" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="3" opacity="1.0">QU QIUBAI   1899—1935</text>
+<text x="1200" y="630" font-family="等线" font-size="14" font-weight="700" fill="#E2231A" text-anchor="end" letter-spacing="1" opacity="1.0">最后的坦白</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6" />
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">重建时期</text>
+<text x="72" y="150" text-anchor="start" font-family="KaiTi" font-size="50" font-weight="normal" fill="#171817">军队短暂改写了南方秩序</text>
+<text x="75" y="244" text-anchor="start" font-family="STZhongsong" font-size="43" font-weight="normal" fill="#963B31">1866</text>
+<text font-weight="normal" font-size="21" text-anchor="start" font-family="KaiTi" fill="#171817" x="75" y="278">共和党取得国会</text><text font-weight="normal" font-size="21" text-anchor="start" font-family="KaiTi" fill="#171817" x="75" y="306.4">三分之二议席</text><text x="75" y="382" text-anchor="start" font-family="STZhongsong" font-size="50" font-weight="normal" fill="#20374D">10 / 5</text>
+<text font-weight="normal" font-size="19" text-anchor="start" font-family="STZhongsong" fill="#171817" x="78" y="430">10 个叛乱州划为 5 个军区</text><text font-weight="normal" font-size="19" text-anchor="start" font-family="STZhongsong" fill="#171817" x="78" y="455.7">军队代行地方行政权</text><text x="75" y="522" text-anchor="start" font-family="KaiTi" font-size="25" font-weight="normal" fill="#171817">黑人社区</text>
+<text x="75" y="553" text-anchor="start" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#4F4E49">多由留在本地谋生的前奴隶形成。</text>
+<text x="75" y="582" text-anchor="start" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#4F4E49">黑人士兵把驻军视为社会改造力量。</text>
+<line x1="722" y1="222" x2="722" y2="565" stroke="#BEB8AD" stroke-width="1.5" />
+<line x1="722" y1="565" x2="1207" y2="565" stroke="#BEB8AD" stroke-width="1.5" />
+<rect x="788" y="285" width="82" height="280" fill="#20374D" />
+<text x="829" y="594" text-anchor="middle" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#171817">1865</text>
+<text x="829" y="270" text-anchor="middle" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#171817">约 18 万</text>
+<rect x="948" y="527" width="82" height="38" fill="#963B31" />
+<text x="989" y="594" text-anchor="middle" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#171817">1867</text>
+<text x="989" y="512" text-anchor="middle" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#171817">约 2 万</text>
+<rect x="1108" y="547" width="82" height="18" fill="#963B31" />
+<text x="1149" y="594" text-anchor="middle" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#171817">1870</text>
+<text x="1149" y="532" text-anchor="middle" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#171817">9 千余</text>
+<text x="948" y="200" text-anchor="middle" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#20374D">联邦军队在南方驻扎人数</text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1" />
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.8–9</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">10 / 12</text>
+</svg>

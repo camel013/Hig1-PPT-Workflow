@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" opacity="1.0"/>
+<text x="80" y="78" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="2" opacity="1.0">02 / 12</text>
+<text x="1200" y="78" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="end" letter-spacing="2" opacity="1.0">PREFACE</text>
+<line x1="80" y1="96" x2="1200" y2="96" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="268" font-family="华文楷体" font-size="58" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">知我者，谓我心忧；</text>
+<text x="80" y="348" font-family="华文楷体" font-size="58" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">不知我者，谓我何求。</text>
+<text x="80" y="404" font-family="华文中宋" font-size="18" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="0" opacity="1.0">——《诗经·黍离》</text>
+<line x1="80" y1="470" x2="620" y2="470" stroke="#E2231A" stroke-width="3"/>
+<text x="80" y="552" font-family="华文楷体" font-size="76" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">何必说？</text>
+<text x="80" y="596" font-family="等线" font-size="20" font-weight="700" fill="#767674" text-anchor="start" letter-spacing="0" opacity="1.0">代序</text>
+</svg>

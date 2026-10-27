@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#F2EEE6"/>
+<text x="74" y="84" text-anchor="start" font-family="STZhongsong" font-size="20" font-weight="normal" fill="#963B31">劳动力结构</text>
+<text x="72" y="150" text-anchor="start" font-family="KaiTi" font-size="50" font-weight="normal" fill="#171817">终身奴役如何被制度化</text>
+<text x="74" y="220" text-anchor="start" font-family="STZhongsong" font-size="21" font-weight="normal" fill="#963B31">01</text>
+<text x="74" y="264" text-anchor="start" font-family="KaiTi" font-size="30" font-weight="normal" fill="#171817">劳力缺口</text>
+<text x="74" y="303" text-anchor="start" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#4F4E49">烟草与水稻种植迅速扩张</text>
+<line x1="309" y1="253" x2="361" y2="253" stroke="#20374D" stroke-width="2"/>
+<polygon points="357,246 375,253 357,260" fill="#20374D"/>
+<text x="360" y="268" text-anchor="start" font-family="STZhongsong" font-size="21" font-weight="normal" fill="#963B31">02</text>
+<text x="360" y="312" text-anchor="start" font-family="KaiTi" font-size="30" font-weight="normal" fill="#171817">契约奴到期离开</text>
+<text x="360" y="351" text-anchor="start" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#4F4E49">旅费债务清偿后成为自由人</text>
+<line x1="595" y1="301" x2="653" y2="301" stroke="#20374D" stroke-width="2"/>
+<polygon points="649,294 667,301 649,308" fill="#20374D"/>
+<text x="646" y="220" text-anchor="start" font-family="STZhongsong" font-size="21" font-weight="normal" fill="#963B31">03</text>
+<text x="646" y="264" text-anchor="start" font-family="KaiTi" font-size="30" font-weight="normal" fill="#171817">黑人终身服役</text>
+<text x="646" y="303" text-anchor="start" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#4F4E49">母系身份继承，被法律当作财产</text>
+<line x1="881" y1="253" x2="933" y2="253" stroke="#20374D" stroke-width="2"/>
+<polygon points="929,246 947,253 929,260" fill="#20374D"/>
+<text x="932" y="268" text-anchor="start" font-family="STZhongsong" font-size="21" font-weight="normal" fill="#963B31">04</text>
+<text x="932" y="312" text-anchor="start" font-family="KaiTi" font-size="30" font-weight="normal" fill="#171817">种族主义提供合法性</text>
+<text x="932" y="351" text-anchor="start" font-family="STZhongsong" font-size="19" font-weight="normal" fill="#4F4E49">把“他者”排除在平等之外</text>
+<path d="M 74 452 C 268 430, 412 468, 590 451 S 874 424, 1115 458" fill="none" stroke="#C9D1D2" stroke-width="2"/>
+<text x="74" y="530" text-anchor="start" font-family="STZhongsong" font-size="70" font-weight="normal" fill="#963B31">1661–1670</text>
+<text x="610" y="493" text-anchor="start" font-family="KaiTi" font-size="24" font-weight="normal" fill="#171817"><tspan x="610" dy="0">这一阶段的关键变化不是“劳动力更多”，</tspan><tspan x="610" dy="38.4">而是“劳动者被永久固定在身份之中”。</tspan></text>
+<text x="610" y="577" text-anchor="start" font-family="STZhongsong" font-size="18" font-weight="normal" fill="#4F4E49">原文写到：黑人奴隶制是殖民者残暴压迫的表现和手段。</text>
+<line x1="74" y1="654" x2="1206" y2="654" stroke="#BEB8AD" stroke-width="1"/>
+<text x="74" y="691" font-family="STZhongsong" font-size="15" fill="#4D4B46">原文 p.1–3 · 脚注 8–10</text>
+<text x="1206" y="691" text-anchor="end" font-family="STZhongsong" font-size="15" fill="#171817">04 / 12</text>
+</svg>

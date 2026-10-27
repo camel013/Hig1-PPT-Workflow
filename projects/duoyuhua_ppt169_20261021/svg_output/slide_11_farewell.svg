@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" opacity="1.0"/>
+<text x="80" y="74" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="2" opacity="1.0">11 / 12</text>
+<text x="1200" y="74" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="end" letter-spacing="2" opacity="1.0">FAREWELL</text>
+<line x1="80" y1="96" x2="1200" y2="96" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="176" font-family="华文楷体" font-size="54" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">告别</text>
+<text x="80" y="262" font-family="华文中宋" font-size="30" font-weight="400" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">一出滑稽剧就此闭幕了！</text>
+<line x1="80" y1="320" x2="1200" y2="320" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="382" font-family="等线" font-size="52" font-weight="700" fill="#111111" text-anchor="start" letter-spacing="0" opacity="1.0">我只要休息。</text>
+<line x1="80" y1="440" x2="1200" y2="440" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="502" font-family="华文楷体" font-size="64" font-weight="400" fill="#E2231A" text-anchor="start" letter-spacing="0" opacity="1.0">永别了，美丽的世界！</text>
+<line x1="80" y1="560" x2="1200" y2="560" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="640" font-family="华文中宋" font-size="15" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="2" opacity="1.0">一九三五·五·二三</text>
+<line x1="80" y1="664" x2="1200" y2="664" stroke="#D9D9D4" stroke-width="1"/>
+<text x="80" y="692" font-family="华文中宋" font-size="13" font-weight="400" fill="#767674" text-anchor="start" letter-spacing="1" opacity="1.0">多余的话</text>
+<text x="1200" y="692" font-family="Arial" font-size="13" font-weight="400" fill="#767674" text-anchor="end" letter-spacing="2" opacity="1.0">11 / 12</text>
+</svg>
