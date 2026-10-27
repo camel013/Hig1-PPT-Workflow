@@ -1,0 +1,3 @@
+interface:
+  display_name: "PPT Workflow"
+  short_description: "Reuse the locked PPT design system and run bounded validation"

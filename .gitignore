@@ -1,4 +1,5 @@
 # Runtime and dependencies
+.local/
 .agents/
 .venv/
 vendor/
@@ -18,7 +19,11 @@ glass_layer_sample_*/contact_sheet.png
 glass_layer_sample_*/preview/
 
 # Generated project outputs and previews
-projects/**/deliverables/
+projects/**/deliverables/**
+!projects/**/deliverables/**/
+!projects/**/deliverables/**/*.pptx
+!projects/**/deliverables/**/*.zip
+projects/campus_environment_ppt169_20261025/deliverables/*链接版*.zip
 projects/**/dist/
 projects/**/_artifact_build/
 projects/**/_native_preview/
@@ -37,9 +42,10 @@ projects/**/_contact*.png
 projects/**/_final_contact*.png
 projects/**/_revised_contact*.png
 projects/**/_crop*.png
+design-system/**/contact_sheet.png
+design-system/**/preview/
 
 # Archives and temporary artifacts
-*.zip
 *.log
 *.tmp
 *.bak
