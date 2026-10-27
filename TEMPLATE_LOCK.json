@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "status": "active",
+  "frozen_at": "2026-10-26T22:42:02.2710566+08:00",
+  "rule": "Locked files may not be edited, renamed, moved, deleted, re-exported, or overwritten unless the user explicitly requests that change.",
+  "exception_rule": "Create a backup and record the authorized scope before modifying a locked file.",
+  "checksum_file": "TEMPLATE_LOCK.sha256",
+  "files": [
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\设计规范与内容大纲.md",
+      "sha256": "05E15412FB8663DE34FB151FA8A1F585F8B0BCD0D75112D266B6D1E1F0F63CCB"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\校园环境链接版(若无法正常放映就用这一版).zip",
+      "sha256": "50DFEDDC8416CBF742CAF4ECE2E3EE4A434699DA8C4D508FDD56582B58908B88"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\校园环境嵌入版.pptx",
+      "sha256": "764AD5604E3E96475C825D1A85EBEAE0832086983A8AADA67383A18751BBAF2F"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\联系表.jpg",
+      "sha256": "DB1782736AB1DB0C209D5B47CE60ADF0E050E0C28624B195E1F37822D6289E3B"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-1.png",
+      "sha256": "A1FBD96A0E00300331AF7E376CEC20AEECFE112D08929CEDB58564AB23229BB9"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-10.png",
+      "sha256": "AF69B08AE137E41CED0CD3C1646E9E4EED42AA080E07D066350EFF14FC447F9D"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-2.png",
+      "sha256": "C89CD3294F8CC2F090A5BC55275BB0D3B0A728592935F118A5412F5F6D785937"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-3.png",
+      "sha256": "0418942573B7152B39E373BAA616E93150609CE9CD5E25E1D58D50DE9F4AA234"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-4.png",
+      "sha256": "300B3DBDD01B204827C6E0ACD6F17DED3E700F6A8A394BABA9AF4B9EA405A6F3"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-5.png",
+      "sha256": "AADB0CA0A36A6B270F3B1B142F3D869AB349E006D9295689237F563683DE279D"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-6.png",
+      "sha256": "84516AC8DA1FABFC7E2E7B442CCDD91FFB8AB48CFE47197FA0FA98D8877CF7DF"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-7.png",
+      "sha256": "5ACA03918A310AACB195C82FFD6E0D5282AFBA73E38378CB4F9BE9294DA6CF1C"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-8.png",
+      "sha256": "0FFC3D2DCDF6C2D6F52AE946E0E037B9C929F61EE987C8EC7F7DC0FBF8B41BEA"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\deliverables\\preview\\slide-9.png",
+      "sha256": "3CA74BF4A31D5BD3F63D373C2EA19BCFC267E3F694B2041F7A32CE24B1374ADC"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\README.md",
+      "sha256": "FD76C06F78F9DC04E3791D9C7DD88AAEEB708BC2005E37EAE4914BBF3A174C53"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\campus_environment_ppt169_20261025\\sources\\演讲结构与页面文案.md",
+      "sha256": "4C75A7BAE8BFD1A797DA10B7069E3C24ED9E812DC9BE674ED36B6EFB0EFA27F9"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\chenwenjie606_ppt169_20261024\\陈文杰_606分之后_9页.pptx",
+      "sha256": "329673E5AE589AA91AC0450AD8966DC394EE0CFEA16FCF3C1ECC36F85AB1DEB0"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\chenwenjie606_ppt169_20261024\\设计规范与内容大纲.md",
+      "sha256": "12E7F3A4E1DA38D1852F6F38D7F109BC6D4D356E751387E0A11AAA0FE33CAA93"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\chenwenjie606_ppt169_20261024\\notes\\total.md",
+      "sha256": "2E9783FB93314EDAB311C66B7D4C5D32072F8390BFEA196F087DEF43B7BBF7DF"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\chenwenjie606_ppt169_20261024\\README.md",
+      "sha256": "67BDD01E5720DF8024FEE9A4DBF80C3E246B37C18C82875B6EA0457A4B383CB0"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\chenwenjie606_ppt169_20261024\\sources\\文案_606分之后_9页.md",
+      "sha256": "3066ED9FE66A8394ED67BEBAC334CA5FC8E8CACB839B6E33CD9F4C715D563DB4"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\duoyuhua_ppt169_20261021\\多余的话_瑞士国际主义版式.pptx",
+      "sha256": "E9540CAE35C965D40C9A0DBFFC1317B157ED425CFDE6AE2FDF54185A18914634"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\duoyuhua_ppt169_20261021\\设计规范与内容大纲.md",
+      "sha256": "07BE93AC095C2EDCCE8B6291E1729A097DFA7547C1804E90D90302B791607088"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\duoyuhua_ppt169_20261021\\README.md",
+      "sha256": "729659423353D28FCBF3D05C4C51D00A2E9F805946088DFA1290F258A2D5EAB0"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\duoyuhua_ppt169_20261021\\sources\\多余的话.pdf",
+      "sha256": "3A488CB8455D34CDAD11EDF577C12959D081F754B5C5093C3785E4DA92D914FA"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\pharma_career_ppt169_20261023\\设计规范与内容大纲.md",
+      "sha256": "CC679A693977B94AB105D13F61CD18A52581B4864974C3661CBF109BA25E139A"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\pharma_career_ppt169_20261023\\祝炜程_从药学基础到制药现场_12页.pptx",
+      "sha256": "833DE702E97E2A0728C35880D4FA7D50EAE13FBA6C01067518BF0AB08AC641E9"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\pharma_career_ppt169_20261023\\notes\\total.md",
+      "sha256": "43D0915D4CA0BA79FF6F69449B28699061B55A725DAC1577E084E06193ACD5F1"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\pharma_career_ppt169_20261023\\README.md",
+      "sha256": "4A06FBFFF90B819591CDEAEE33F8D66B6893ED98A0FBC1A8C38D19F6F31002A7"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\pharma_career_ppt169_20261023\\sources\\报告正文.md",
+      "sha256": "616CECC924F88086B205149A64BD8D1014AD58FA751FE1A89F1718E53CCBB585"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\xigai_story_ppt169_20261023\\留沪之前_教育科技人才战略_12页.pptx",
+      "sha256": "3FD7824BEC3E50DA523F62A6C082533799B40F41697E3FBC781C0337D8C99BEE"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\xigai_story_ppt169_20261023\\设计规范与内容大纲.md",
+      "sha256": "7C69A94B3EC44378E0563E8A25AAEED89F2F9C90417D11F4BD9B00A4D0AF6B3C"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\xigai_story_ppt169_20261023\\notes\\total.md",
+      "sha256": "B7FF58324F1DED6701FAC6C6547B1098BF324D42B97B91A8512990E9A2EFC0FF"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\xigai_story_ppt169_20261023\\README.md",
+      "sha256": "BF0064BECD7F46E04A6846909D038B003221D50CC158B7E10CD060F3892C6220"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\xigai_story_ppt169_20261023\\sources\\故事与引用.md",
+      "sha256": "2F8BBBCCC1194DA49C56B3A844949FE8B70FEB330B7F43FC3041BF29800C7D9F"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\zhiwen_teaching_ppt169_20261024\\蛭文_教学读本_95页_新讲解版_动效_嵌入字体_终稿.pptx",
+      "sha256": "C15D18D25202F3495962708157E03EFD30A80E1E4E55F4F1A24468AB05EB3F68"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\zhiwen_teaching_ppt169_20261024\\README.md",
+      "sha256": "D0523968FC6512A0FAD84FBDD63052C11D711078DBE4213701F716D53FB89499"
+    },
+    {
+      "group": "completed_projects",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\projects\\zhiwen_teaching_ppt169_20261024\\sources\\1111111.pdf",
+      "sha256": "114D789C02423FCE18D0AD999A529A1C44CD8CC1D93F709FEB54159A5E9328E0"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\_slideshow_check.png",
+      "sha256": "46B245EF053AD221C197022A217ABFAAF705A5984758C6A68FAF2BBD65E6EAE3"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\缩短客户反馈闭环_4页_深色重建版.pptx",
+      "sha256": "E922491D2CD5D5BC2FD6F7E4A379B22BE297D30B521BD0CA466443686612DEB9"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\acceptance.json",
+      "sha256": "E33C316415B24DD0D33501F05623D8B29CF942BDDF764CAAAB4D04A9C67F5725"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\contact_sheet.png",
+      "sha256": "7CBB8B8054CDF80D05E0957D98A9B7A6D9F6AFBFFDFAF53C9AAE89E462DBA6F5"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s01.png",
+      "sha256": "4917B0F430AFFFB1B0F0DCED4F4E3700C57C8BA14E9BE86A5BB071FC5D9A8BDA"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s02.png",
+      "sha256": "4917B0F430AFFFB1B0F0DCED4F4E3700C57C8BA14E9BE86A5BB071FC5D9A8BDA"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s03.png",
+      "sha256": "4917B0F430AFFFB1B0F0DCED4F4E3700C57C8BA14E9BE86A5BB071FC5D9A8BDA"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_4page_dark\\preview\\s04.png",
+      "sha256": "4917B0F430AFFFB1B0F0DCED4F4E3700C57C8BA14E9BE86A5BB071FC5D9A8BDA"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\缩短客户反馈闭环_6页_重建版.pptx",
+      "sha256": "65B9C8821834EBD8EF9BFB305B13A26544258DE72EC825E4C9B6C39A429693EC"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\acceptance.json",
+      "sha256": "A22253302B031B60B1D261C95A44CB386E92E88897263CD7C1A30E22122A88BE"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\contact_sheet.png",
+      "sha256": "379A3C44F9409083FD125ED35D3D29FF16CBFDBA9B9D04384CC7BA9EAFEAA72C"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s01.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s02.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s03.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s04.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s05.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\feedback_6page\\preview\\s06.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\减少无效会议_4页_重建版.pptx",
+      "sha256": "A56D98F624B48CC55C4A2FAA58D7044F73249CB36D4D519463B39FAE854AAB6F"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\acceptance.json",
+      "sha256": "EE4AA9B9663B6707007A2DCB121A9A5D0AEDB4E18A62393A5661D4B7F1E1BE0D"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\contact_sheet.png",
+      "sha256": "DA212C9BFC391729643A7FC600E17BF5212F798B6F2C185CAC3A44CA2A50CB37"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\preview\\s01.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\preview\\s02.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\preview\\s03.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\deliverables\\meeting_4page\\preview\\s04.png",
+      "sha256": "AD2E35EFBB03129FABF5929C18D4F193E5F5D294EC2FCDA70DFB38E3721575D4"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\MANIFEST.json",
+      "sha256": "F9F4D3C8C4B67E557C7F18C65EF7DDDC8A896DF7B3FC12267FE3A9A9DC25343C"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\powerpoint_audit.json",
+      "sha256": "C3A8DE3A327034B5F5078F5A09575E269AB25EED498C44CA62BA5E428038D845"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\README.md",
+      "sha256": "AC3CB509A64E0958FB69B20A7EEF96198CE60E8915175568DC48675FE247CF78"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\rebuild_verification.json",
+      "sha256": "1A6FE025495CBFC696F41EE156301A1E579022BC61A2018277912984DED7EA33"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\SHA256SUMS.txt",
+      "sha256": "F0E76C29935FF2F7AADBDB898953A72F2390F85149B26298284DFA10C632FF95"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\audit_powerpoint.ps1",
+      "sha256": "4370447D1B25B3BF8EEF617147EBB0E537137E6C72795400958784689D2A1479"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\audit_workspace_today.ps1",
+      "sha256": "C5FBC0CC835B79FDA1F38704F97645C009D38BBFE8E8EB0AD117A39D05AC2AAF"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\build_glass_sample.py",
+      "sha256": "59E98894AFEC0A0837B31CD0BA7349CC6A8CE25283E20A1F3786B3CFEAC274BF"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\capture_slideshow.ps1",
+      "sha256": "4DBE4560EB53943BBCA9B659BA84D73F389B51EAEF6EB08A95AFD1104899DFA7"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\embed_full_fonts_from_donor.py",
+      "sha256": "716E00C013E677514F63AF8979490CB8BBFF0BDEB5AE9A3C37AE0612887C2372"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\finalize_delivery.ps1",
+      "sha256": "102F4D6583364ED1AA9F289266D099555316B2F2C8B63B1CE7BD85720A756D07"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\probe_arc_antialias.py",
+      "sha256": "498C5D2E8BADA78E0C53271D6529A5B57E2CB096D65A414A298F42594092190F"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\rebuild_all.py",
+      "sha256": "8D59D6CB7964EF9F8239EA42E3EA7C1B8E77D858993C8406E2644E5254BB22D3"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\repair_animations.ps1",
+      "sha256": "21D624F31BB01AF06F3ED012E36D4B787C771A8E553F417046B95C2DF1140CD3"
+    },
+    {
+      "group": "duoyuhua_rebuild",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_quality_baseline_duoyuhua_20261026\\workflow\\swiss_duoyuhua_v1.json",
+      "sha256": "D064547FAB080E37D341088B0B4562284846277DDE7F56A5C18D4FDE6EE8E8B7"
+    },
+    {
+      "group": "glass_sample",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\玻璃质感色块_隔离样页.pptx",
+      "sha256": "D61C0633957865159E0264AFC96F4E657BF6AF166180FB2F3799C78C4DD6AD21"
+    },
+    {
+      "group": "glass_sample",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\arc_antialias_report.json",
+      "sha256": "786E4669BB5B9412D282AEA4B22831F706A81DB0190C314F2DD1844EF4E7B567"
+    },
+    {
+      "group": "glass_sample",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\contact_sheet.png",
+      "sha256": "E0E2E3FE369B2A399FF28AE9575BE51EDBBBDB587ECBC63891881E4D5446D758"
+    },
+    {
+      "group": "glass_sample",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\layout_acceptance.json",
+      "sha256": "A4EC5952D5BF2398A526CA8791ECB09F16FF16283054CC60BE66616624058CAE"
+    },
+    {
+      "group": "glass_sample",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\glass_layer_sample_20261026\\preview\\s01.png",
+      "sha256": "E0E2E3FE369B2A399FF28AE9575BE51EDBBBDB587ECBC63891881E4D5446D758"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\agents\\openai.yaml",
+      "sha256": "9A6C5A8DE712E0D3EA50E6B7AA9383C8710A33360D7FD55B4150EE21A0F3CE9E"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\assets\\glass-layer-sample.png",
+      "sha256": "E0E2E3FE369B2A399FF28AE9575BE51EDBBBDB587ECBC63891881E4D5446D758"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\assets\\swiss_duoyuhua_v1.json",
+      "sha256": "325C14F74C16FBFD546D064471DEB991E2CE439FB2E29847686EE30401F588CB"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\campus-environment-brief.md",
+      "sha256": "34B555D5E54D739B583F7C70E32E23FE3999D330225C3F6412F7E251839C99ED"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\duoyuhua-brief.md",
+      "sha256": "4F2C05A5EA97C33CC6C65AE279DC95EF2CA374522C4C8AB146D3D9BFA9081E16"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\glass-layer.md",
+      "sha256": "ECDB77FCB65A15AEC01C508F7749756515CD54032EC696F105A26A4A81B1BE26"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\image-scale-blur-guide.md",
+      "sha256": "08743502D1D133091466504C5F68432580DB463922DFBE4D7385B2A7FD5EA9F6"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\native-pptx-delivery-animation.md",
+      "sha256": "AC170A32CA6C5C28EBC9A668B3F7F346FC649F94CF9D1CEDD9C068564F0972CF"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\native-pptx-font-embedding.md",
+      "sha256": "9A2767F28C8DEDD0A1A94518E1819E1FC3F0F697F625B48EB01A0C5737F8BE4E"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\native-pptx-slideshow-repair.md",
+      "sha256": "3A664675A21A2F449105109262C12351CF3CADBCA2FD85E74D49CD39FBBDCF3B"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\project-intake.md",
+      "sha256": "1F21425921028003F71D0ABF7776B0202754005C7EA0A1BA8F51B4D727E6DFE4"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\style-pack-and-regression.md",
+      "sha256": "AA1D4923034A0B3C81A610CEB06FF87F20E3C7BAB04083DF66F333A696CE2A42"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\visual-language.md",
+      "sha256": "C8531F6F8FCB32484DC99F7A90076464644AA3FB26705CA87BBC9B8F926347EA"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\references\\workflow.md",
+      "sha256": "77DDCF7B5C3DBFB493B7960681A0A92D4E826EDA92CD800F94A2FAC5A1A4065E"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\audit_native_pptx.ps1",
+      "sha256": "3E6A0971CB0DB8E05DFB98BD60A7F7EC906D9DA39FC0FC78C1FDE47BA6137B49"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\bootstrap.ps1",
+      "sha256": "1A9B0E6EED235C9A7A790F22F6BEA7ED4AAF307ED93FA3572A8251EACBFBFC36"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\bootstrap.sh",
+      "sha256": "44B1B8FD3B82D8BE3F7B780D0C5E73DBC94E1FBB438C84BEF7CD4942F771511D"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\embed_full_fonts_from_donor.py",
+      "sha256": "CB647D3EC55F6A54A975F345BCE3E190F4C275BEF03801AA97EB716FED07FFC0"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\glass_layer.py",
+      "sha256": "B315F09AD61B5C19074870DF819BABBA76E66C5C16F17AA7EDFA9819EB221380"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\repair_animations.ps1",
+      "sha256": "DFCE7D1C23E0C8890285EBC84A69523628A35D32536C80010F1FA5ACFCCB1403"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\run-node-tool.ps1",
+      "sha256": "ACBB1342F448A8A93B45134E7556D8064DA0BA31974885280F5FFB37B73ACC64"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\run-node-tool.sh",
+      "sha256": "900C2427AB44AA208053D8FB7700D487CDF893B367ECE25103471B66320B14A4"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\run-python-tool.ps1",
+      "sha256": "A9DF8DF0F62E48C59E034AD924A47F386CD6BCB32B8DFA9C633DD26036F4553A"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\scripts\\run-python-tool.sh",
+      "sha256": "F651BA593820B0D45928F0FE3E1D22716015314CD2028963EA8FB40B11638483"
+    },
+    {
+      "group": "ppt_master_skill",
+      "absolute_path": "C:\\Users\\camel\\.codex\\skills\\ppt-master-skill\\SKILL.md",
+      "sha256": "CD24B93C4237F0DD8B373541B5912AF3263C07AB06926EAA0B22587BEF2688BB"
+    },
+    {
+      "group": "ppt_workflow",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_ppt_workflow\\preflight.ps1",
+      "sha256": "D6EC57D203AED710D85592839AFAE29E0E1F37AE85C446C07650325D81E1A316"
+    },
+    {
+      "group": "ppt_workflow",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\_ppt_workflow\\README.md",
+      "sha256": "0B58BB2E90D15995BAA6F6C165213B25868BE04600CB626837A439E627DCECD7"
+    },
+    {
+      "group": "workspace_delivery",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\减少无效会议_反馈闭环_重建包_20261026.zip",
+      "sha256": "14678BD349200C3534421476E5D2A2386DC2859F383D00DA6213844309539EC5"
+    },
+    {
+      "group": "workspace_instruction",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\AGENTS.md",
+      "sha256": "85C50AD2AD7A914744D04D1034E28288D0E877CED53177EC44222725122B5C75"
+    },
+    {
+      "group": "workspace_tool",
+      "absolute_path": "C:\\Users\\camel\\Documents\\ChatGPT\\Hig1\\template_lock.ps1",
+      "sha256": "38C185312E77131750AE3A743C646765FAC58AB1019E39B08C405FF37328C064"
+    }
+  ]
+}

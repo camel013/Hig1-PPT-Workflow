@@ -1,0 +1,38 @@
+# Runtime and dependencies
+.agents/
+.venv/
+vendor/
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local projects, source material, working data and generated outputs
+projects/
+_src/
+_work/
+backups/
+dist/
+_quality_baseline_*/
+glass_layer_sample_*/
+qub_*/
+_workspace_audit_*.json
+
+# Binary deliverables and previews
+*.pptx
+*.pdf
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
